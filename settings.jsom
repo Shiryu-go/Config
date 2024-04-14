@@ -1,0 +1,28 @@
+{
+    "boot-java.rewrite.reconcile": true,
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home",
+    "editor.tabSize": 2,
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "never",
+    "files.insertFinalNewline": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.confirmSync": false,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "vim.insertModeKeyBindings": [
+
+    ],
+    "workbench.settings.openDefaultKeybindings": true,
+    "vim.visualModeKeyBindings": [],
+    "vim.commandLineModeKeyBindings": [
+
+    ],
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "/Users/${user}/.vimrc",
+    "git.ignoreRebaseWarning": true,
+
+    "markdown.marp.enableHtml": true,
+    "editor.codeActionsOnSave": {
+        
+    }
+    //https://qiita.com/yuta-katayama-23/items/d0543f4bedc739ecafcb
+}
